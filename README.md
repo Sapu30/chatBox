@@ -2,7 +2,7 @@
 # Chat Application with Spring Boot and WebSocket
 
 A real-time chat application built with Spring Boot and WebSocket, allowing users to communicate by typing their name to log in.
-https://youtu.be/xLJIodIqsmY?si=GXTA6ot1fz9c_HVF
+Vedio Link : https://youtu.be/xLJIodIqsmY?si=GXTA6ot1fz9c_HVF
 
 ## Overview
 
